@@ -1,0 +1,12 @@
+[submodule "robotont-firmware"]
+	path = robotont-firmware
+	url = git@github.com:robotont/robotont-firmware.git
+[submodule "robotont_driver"]
+	path = robotont_driver
+	url = git@github.com:robotont/robotont_driver.git
+[submodule "robotont_msgs"]
+	path = robotont_msgs
+	url = git@github.com:robotont/robotont_msgs.git
+[submodule "demo_lighting"]
+	path = demo_lighting
+	url = git@github.com:robotont-demos/demo_lighting.git
